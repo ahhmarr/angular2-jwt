@@ -1,10 +1,10 @@
 {
-  "name": "angular2-jwt",
+  "name": "angular2-jwt-ahmar-fix",
   "version": "0.1.27",
-  "description": "Helper library for handling JWTs in Angular 2",
+  "description": "Helper library for handling JWTs in Angular 2.4",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/auth0/angular2-jwt.git"
+    "url": "https://github.com/ahhmarr/angular2-jwt"
   },
   "scripts": {
     "dev": "tsc --watch",
@@ -52,6 +52,6 @@
   "peerDependencies": {
     "@angular/core": "^2.0.0",
     "@angular/http": "^2.0.0",
-    "rxjs": "5.0.0-beta.12"
+    "rxjs": "5.0.1"
   }
 }
